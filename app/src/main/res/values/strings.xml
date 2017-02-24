@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="check_status">Check Status</string>
+    <string name="click_for_notification">Click for Notification</string>
+    <string name="m_notifier">M NOTIFIER</string>
+    <string name="my_notifier">MY NOTIFIER</string>
+</resources>
